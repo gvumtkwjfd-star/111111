@@ -177,9 +177,10 @@ about_heading: "Meet our company unless miss the opportunity",
 about_description: "Hey there! So glad you stopped by to Meet Our Company. Don't miss out on this opportunity to learn about what we do and the amazing team that makes it all happen! Our company is all about creating innovative solutions and providing top-notch services to our clients. From start to finish, we're dedicated to delivering results that exceed expectations.",
 about_explore_button: "Explore More",
 risk_title: "Risk disclosure",
-risk_text: `Investing in high-risk groups: (Forex) and contracts for difference (CFD) is a speculative transaction with high risk, which is not suitable for every investor. You may incur partial or total loss of your investment, so we do not advise you to invest capital that you cannot risk. You should be aware of the increased risk associated with leverage. We strongly recommend that you familiarize yourself with the terms and services of our website before you start using our service.
-<br/><br/>
-<span class="text-success fw-bold">Quantum Prime</span> is a trading name operated under its parent company <span class="fw-bold">Quantum Prime Finance</span>, a company registered in England and Wales with Companies House number <span class="fw-bold">00053741</span>. Registered office: 45 Northgate, White Lund Industrial Estate, Morecambe, Lancashire, LA3 3PAL, United Kingdom.`,
+ risk_text: `Investing in high-risk groups: (Forex) and contracts for difference (CFD) is a speculative transaction with high risk, which is not suitable for every investor. You may incur partial or total loss of your investment, so we do not advise you to invest capital that you cannot risk. You should be aware of the increased risk associated with leverage. We strongly recommend that you familiarize yourself with the terms and services of our website before you start using our service.
+  <br/><br/>
+  <span class="text-success fw-bold">Quantum Prime</span> is a trading name operated under its parent company <span class="fw-bold">Quantum Prime Finance</span>, a company registered in England and Wales with Companies House number <span class="fw-bold">00053741</span> and firm reference number <span class="fw-bold">419498</span>. 
+  Registered office: 45 Northgate, White Lund Industrial Estate, Morecambe, Lancashire, LA3 3PAL, United Kingdom.`,
 login_heading: "Login to your account",
 login_username_label: "Username",
 login_username_placeholder: "Username",
@@ -617,9 +618,10 @@ about_heading: "Poznaj naszą firmę — nie przegap tej okazji",
 about_description: "Cieszymy się, że nas odwiedziłeś! Dowiedz się więcej o naszej firmie, naszych rozwiązaniach i wspaniałym zespole, który wszystko to tworzy. Nasza firma skupia się na innowacyjnych rozwiązaniach i najwyższej jakości usługach dla klientów. Od początku do końca — dążymy do przekraczania oczekiwań.",
 about_explore_button: "Dowiedz się więcej",
 risk_title: "Ujawnienie ryzyka",
-risk_text: `Inwestowanie w grupy wysokiego ryzyka: (Forex) i kontrakty na różnice kursowe (CFD) to spekulacyjne transakcje o wysokim ryzyku, które nie są odpowiednie dla każdego inwestora. Możesz ponieść częściową lub całkowitą stratę zainwestowanego kapitału, dlatego nie zalecamy inwestowania środków, na których utratę nie możesz sobie pozwolić. Powinieneś być świadomy zwiększonego ryzyka związanego z dźwignią finansową. Zdecydowanie zalecamy zapoznanie się z warunkami i usługami naszej strony internetowej przed rozpoczęciem korzystania z naszych usług.
-<br/><br/>
-<span class="text-success fw-bold">Quantum Prime</span> jest nazwą handlową działającą pod firmą macierzystą <span class="fw-bold">Quantum Prime Finance</span>, zarejestrowaną w Anglii i Walii pod numerem Companies House <span class="fw-bold">00053741</span>. Siedziba: 45 Northgate, White Lund Industrial Estate, Morecambe, Lancashire, LA3 3PAL, Wielka Brytania.`,
+risk_text: `Inwestowanie w grupy wysokiego ryzyka, takie jak (Forex) i kontrakty na różnicę (CFD), jest transakcją spekulacyjną o wysokim ryzyku i nie jest odpowiednie dla każdego inwestora. Możesz ponieść częściową lub całkowitą utratę swojej inwestycji, dlatego nie zalecamy inwestowania kapitału, którego nie możesz stracić. Należy być świadomym zwiększonego ryzyka związanego z dźwignią finansową. Zdecydowanie zalecamy zapoznanie się z warunkami i usługami naszej strony internetowej przed rozpoczęciem korzystania z naszego serwisu.
+  <br/><br/>
+  <span class="text-success fw-bold">Quantum Prime</span> jest nazwą handlową działającą pod spółką macierzystą <span class="fw-bold">Quantum Prime Finance</span>, zarejestrowaną w Anglii i Walii pod numerem <span class="fw-bold">00053741</span> oraz numerem referencyjnym firmy <span class="fw-bold">419498</span>. 
+  Siedziba: 45 Northgate, White Lund Industrial Estate, Morecambe, Lancashire, LA3 3PAL, Wielka Brytania.`,
 account_title: "Moje konto",
 breadcrumb_home: "Bitrader",
 breadcrumb_account: "Moje konto",
@@ -912,4 +914,5 @@ document.addEventListener("DOMContentLoaded", () => {
       setLanguage(lang);
     });
   });
+
 });
