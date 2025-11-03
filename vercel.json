@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://prosperum.investments/$1",
+      "permanent": true
+    }
+  ]
+}
